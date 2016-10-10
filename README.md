@@ -1,4 +1,4 @@
-# GitHub Pain
+# GitHub Paint
 
 Using this simple script, you can draw into your GitHub contribution graph. Simply clone this repo, add a 7x54px image and draw whatever you want.
 
