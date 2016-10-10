@@ -10,3 +10,5 @@ commit.py -i <image-file> -d "2011-12-25"
 ```
 
 This will paint whatever you made across the entire year 2012.
+
+**Hint:** consider doing this in a branch, so it's easier to erase...
